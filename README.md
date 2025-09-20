@@ -24,6 +24,7 @@ This is a full-stack **E-Commerce web application** developed using **Spring Fra
 - `src/main/webapp` → Frontend files (HTML, CSS, JS)  
 
 ## Installation & Setup
+## It will be live very soon
 
 1. Clone the repository:  
    ```bash
